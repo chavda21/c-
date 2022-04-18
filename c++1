@@ -1,0 +1,13 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+int x,y;
+cout<<" enter value of x:";
+cin>>x;
+cout<<"the num x:"<<x<<emdl;
+cout<< enter value of y:;
+cin>>y;
+cout<<" the num y:"<<y;
+getch();
+}
